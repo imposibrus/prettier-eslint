@@ -1,6 +1,6 @@
 {
   "name": "prettier-eslint",
-  "version": "0.0.0-development",
+  "version": "8.8.1",
   "description":
     "Formats your JavaScript using prettier followed by eslint --fix",
   "main": "dist/index.js",
